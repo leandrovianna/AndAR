@@ -1,0 +1,174 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ATTRIBUTION
+* AndARLogo.png
+* AndARLogo.psd
+* COPYING
+* Overview.png
+* archive/
+* archive/AndAR_v5.apk
+* default.properties
+* doc/
+* doc/allclasses-frame.html
+* doc/allclasses-noframe.html
+* doc/constant-values.html
+* doc/deprecated-list.html
+* doc/edu/
+* doc/edu/dhbw/
+* doc/edu/dhbw/andar/
+* doc/edu/dhbw/andar/ARObject.html
+* doc/edu/dhbw/andar/ARToolkit.html
+* doc/edu/dhbw/andar/AndARActivity.html
+* doc/edu/dhbw/andar/AndARRenderer.html
+* doc/edu/dhbw/andar/CameraHolder.html
+* doc/edu/dhbw/andar/CameraParameters.html
+* doc/edu/dhbw/andar/CameraPreviewHandler.html
+* doc/edu/dhbw/andar/CameraStatus.html
+* doc/edu/dhbw/andar/Config.html
+* doc/edu/dhbw/andar/GenericFunctions.html
+* doc/edu/dhbw/andar/class-use/
+* doc/edu/dhbw/andar/class-use/ARObject.html
+* doc/edu/dhbw/andar/class-use/ARToolkit.html
+* doc/edu/dhbw/andar/class-use/AndARActivity.html
+* doc/edu/dhbw/andar/class-use/AndARRenderer.html
+* doc/edu/dhbw/andar/class-use/CameraHolder.html
+* doc/edu/dhbw/andar/class-use/CameraParameters.html
+* doc/edu/dhbw/andar/class-use/CameraPreviewHandler.html
+* doc/edu/dhbw/andar/class-use/CameraStatus.html
+* doc/edu/dhbw/andar/class-use/Config.html
+* doc/edu/dhbw/andar/class-use/GenericFunctions.html
+* doc/edu/dhbw/andar/exceptions/
+* doc/edu/dhbw/andar/exceptions/AndARException.html
+* doc/edu/dhbw/andar/exceptions/AndARRuntimeException.html
+* doc/edu/dhbw/andar/exceptions/class-use/
+* doc/edu/dhbw/andar/exceptions/class-use/AndARException.html
+* doc/edu/dhbw/andar/exceptions/class-use/AndARRuntimeException.html
+* doc/edu/dhbw/andar/exceptions/package-frame.html
+* doc/edu/dhbw/andar/exceptions/package-summary.html
+* doc/edu/dhbw/andar/exceptions/package-tree.html
+* doc/edu/dhbw/andar/exceptions/package-use.html
+* doc/edu/dhbw/andar/interfaces/
+* doc/edu/dhbw/andar/interfaces/MarkerVisibilityListener.html
+* doc/edu/dhbw/andar/interfaces/OpenGLRenderer.html
+* doc/edu/dhbw/andar/interfaces/PreviewFrameSink.html
+* doc/edu/dhbw/andar/interfaces/class-use/
+* doc/edu/dhbw/andar/interfaces/class-use/MarkerVisibilityListener.html
+* doc/edu/dhbw/andar/interfaces/class-use/OpenGLRenderer.html
+* doc/edu/dhbw/andar/interfaces/class-use/PreviewFrameSink.html
+* doc/edu/dhbw/andar/interfaces/package-frame.html
+* doc/edu/dhbw/andar/interfaces/package-summary.html
+* doc/edu/dhbw/andar/interfaces/package-tree.html
+* doc/edu/dhbw/andar/interfaces/package-use.html
+* doc/edu/dhbw/andar/package-frame.html
+* doc/edu/dhbw/andar/package-summary.html
+* doc/edu/dhbw/andar/package-tree.html
+* doc/edu/dhbw/andar/package-use.html
+* doc/edu/dhbw/andar/pub/
+* doc/edu/dhbw/andar/pub/CustomActivity.html
+* doc/edu/dhbw/andar/pub/CustomObject.html
+* doc/edu/dhbw/andar/pub/CustomRenderer.html
+* doc/edu/dhbw/andar/pub/SimpleBox.html
+* doc/edu/dhbw/andar/pub/class-use/
+* doc/edu/dhbw/andar/pub/class-use/CustomActivity.html
+* doc/edu/dhbw/andar/pub/class-use/CustomObject.html
+* doc/edu/dhbw/andar/pub/class-use/CustomRenderer.html
+* doc/edu/dhbw/andar/pub/class-use/SimpleBox.html
+* doc/edu/dhbw/andar/pub/package-frame.html
+* doc/edu/dhbw/andar/pub/package-summary.html
+* doc/edu/dhbw/andar/pub/package-tree.html
+* doc/edu/dhbw/andar/pub/package-use.html
+* doc/edu/dhbw/andar/util/
+* doc/edu/dhbw/andar/util/GraphicsUtil.html
+* doc/edu/dhbw/andar/util/IO.html
+* doc/edu/dhbw/andar/util/class-use/
+* doc/edu/dhbw/andar/util/class-use/GraphicsUtil.html
+* doc/edu/dhbw/andar/util/class-use/IO.html
+* doc/edu/dhbw/andar/util/package-frame.html
+* doc/edu/dhbw/andar/util/package-summary.html
+* doc/edu/dhbw/andar/util/package-tree.html
+* doc/edu/dhbw/andar/util/package-use.html
+* doc/edu/dhbw/andopenglcam/
+* doc/edu/dhbw/andopenglcam/R.attr.html
+* doc/edu/dhbw/andopenglcam/R.drawable.html
+* doc/edu/dhbw/andopenglcam/R.html
+* doc/edu/dhbw/andopenglcam/R.layout.html
+* doc/edu/dhbw/andopenglcam/R.string.html
+* doc/edu/dhbw/andopenglcam/class-use/
+* doc/edu/dhbw/andopenglcam/class-use/R.attr.html
+* doc/edu/dhbw/andopenglcam/class-use/R.drawable.html
+* doc/edu/dhbw/andopenglcam/class-use/R.html
+* doc/edu/dhbw/andopenglcam/class-use/R.layout.html
+* doc/edu/dhbw/andopenglcam/class-use/R.string.html
+* doc/edu/dhbw/andopenglcam/package-frame.html
+* doc/edu/dhbw/andopenglcam/package-summary.html
+* doc/edu/dhbw/andopenglcam/package-tree.html
+* doc/edu/dhbw/andopenglcam/package-use.html
+* doc/help-doc.html
+* doc/index-files/
+* doc/index-files/index-1.html
+* doc/index-files/index-10.html
+* doc/index-files/index-11.html
+* doc/index-files/index-12.html
+* doc/index-files/index-13.html
+* doc/index-files/index-14.html
+* doc/index-files/index-15.html
+* doc/index-files/index-16.html
+* doc/index-files/index-2.html
+* doc/index-files/index-3.html
+* doc/index-files/index-4.html
+* doc/index-files/index-5.html
+* doc/index-files/index-6.html
+* doc/index-files/index-7.html
+* doc/index-files/index-8.html
+* doc/index-files/index-9.html
+* doc/index.html
+* doc/overview-frame.html
+* doc/overview-summary.html
+* doc/overview-tree.html
+* doc/package-list
+* doc/resources/
+* doc/resources/inherit.gif
+* doc/serialized-form.html
+* doc/stylesheet.css
+* img/
+* img/promo.png
+* img/screenshot1.jpg
+* img/sreenshot2.png
+* project
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* jni/ => app/src/main/jni/
+* libs/armeabi-v7a/libar.so => app/src/main/jniLibs/armeabi-v7a/libar.so
+* libs/armeabi-v7a/libyuv420sp2rgb.so => app/src/main/jniLibs/armeabi-v7a/libyuv420sp2rgb.so
+* libs/armeabi/libar.so => app/src/main/jniLibs/armeabi/libar.so
+* libs/armeabi/libyuv420sp2rgb.so => app/src/main/jniLibs/armeabi/libyuv420sp2rgb.so
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
